@@ -19,6 +19,6 @@
   <a href = "mailto:lukejohnson73@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=hmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luke-campos-a4ab976b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lukejohnsonC/lukejohnsonC/blob/output/github-contribution-grid-snake.svg)
 
 </div>
