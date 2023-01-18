@@ -18,10 +18,10 @@
   ### A seguir os meios de contato para me contatar!
  
 <div>
-  <a target="_blank" href="https://instagram.com/itsjukelohnson"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:lukejohnson73@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/luke-campos-a4ab976b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://api.whatsapp.com/send?phone=5513991856260" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+  <a href="https://instagram.com/itsjukelohnson"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href = "mailto:lukejohnson73@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/luke-campos-a4ab976b/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://api.whatsapp.com/send?phone=5513991856260"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
   <!- 
   ![Snake animation](https://github.com/lukejohnsonC/lukejohnsonC/blob/output/github-contribution-grid-snake.svg)
   ->
